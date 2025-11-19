@@ -4,4 +4,5 @@ background: khaki;
 }
 header{
     border-bottom: solid 2px rgb(lch(0% 0 0));
-}
+    padding: 20px;
+} 
