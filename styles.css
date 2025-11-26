@@ -5,4 +5,14 @@ background: khaki;
 header{
     border-bottom: solid 2px rgb(lch(0% 0 0));
     padding: 20px;
-} 
+    font-size: 32px;
+    color: cornsilk;
+    background: antiquewhite
+    ;
+    .chamada{
+        background: chartreuse;
+    padding-top:100px ;
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    }
